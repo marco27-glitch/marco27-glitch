@@ -42,9 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/marco27-glitch/marco27-glitch/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -52,12 +49,6 @@
   <img height="300" src="https://i.pinimg.com/originals/4d/87/42/4d87427584b23c160108d177bef488d2.gif"  />
 </div>
 
-###
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
 
-###
-
-<img src="https://raw.githubusercontent.com/marco27-glitch/marco27-glitch/output/snake.svg" alt="Snake animation" />
 
 ###
