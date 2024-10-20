@@ -26,12 +26,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="250" src="https://i.pinimg.com/originals/4d/87/42/4d87427584b23c160108d177bef488d2.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -45,6 +39,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/marco27-glitch/marco27-glitch/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/4d/87/42/4d87427584b23c160108d177bef488d2.gif"  />
+</div>
+
+###
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
